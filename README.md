@@ -5,7 +5,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47qy0hk6xk9yqhy4gtc37mac6r92pnlt3j7wfo6672&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
-<code>
+<pre><code>
   class PythonDeveloper:
 
     def __init__(self):
@@ -23,7 +23,7 @@
             'phone': +7-(925)-843-12-54,
                     }   
 
-</code>
+</code></pre>
 
 <h2 align="center"> :hammer_and_wrench: Languages and Tools :</h2>
 <p align="center">
